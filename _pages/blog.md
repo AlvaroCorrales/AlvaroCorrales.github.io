@@ -85,6 +85,4 @@ i {
 }
 </style>
 
-## Tech Blogs
-
 Page under construction
