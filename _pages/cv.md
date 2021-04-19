@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /_pages/cv/
 author_profile: true
 title: Curriculum Vitae
