@@ -85,6 +85,6 @@ i {
 }
 </style>
 
-## Hola
+## Tech Blogs
 
-This is a test
+Page under construction
