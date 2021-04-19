@@ -46,9 +46,10 @@ classes: wide
 
 # Experience
 ## IBM, Data Scientist
-**Cloud Pak Acceleration Team** - Helping organisations use their data with Cloud technology, AI and an Agile methodologies. Show the value of IBM’s Cloud Pak for Data through PoC and MVP. Some projects include:
+**IBM Cloud Pak Acceleration Team**; London; November 2019 - Present
+Helping organisations use their data with Cloud technology, AI and an Agile methodologies. Show the value of IBM’s Cloud Pak for Data through PoC and MVP. Some projects include:
 - **Emergent Alliance** -  Led two teams producing open-source material in the fight against Covid-19. Code available on Github.
-  - Co-authored a model of the economy to study how economic shocks propagate across economic sectors. We spined it of as a publicly available app. 
+  - Co-authored a model of the economy to study how economic shocks propagate across economic sectors. The Alliance spined it of as a publicly available [app](https://emergentalliance.org/products-and-services/economic-engine/). 
   - Identified mental health problems and perception of vaccines for NHS on Twitter using topic modelling and sentiment analysis.
 - **Publishing industry** - Demonstrated how to leverage NLP and clustering techniques to identify authors of comments in online forums that use different user names across several platforms. 
 - **Energy sector** – Improved the data collection and organisation process of a company by using a harmonised catalogue with data protection rules, which can be partially accessed by external users, as required by national regulations.
@@ -57,6 +58,19 @@ classes: wide
 - I have spoken in public events with organisations such as Code First Girls and PyData London, for which I have achieved recognition as a public [speaker](https://www.youracclaim.com/badges/f94d74c3-e287-4a33-947e-1982c5ee4432/public_url) and [teacher](https://www.youracclaim.com/badges/dd074e83-1583-4f46-bc08-bfef41fe8d3d/public_url).
 - Mentoring people that want to start a career as a Data Scientist, for which I have also gained [recognition](https://www.youracclaim.com/badges/e48a1e85-043a-4d69-84f7-372072a03248/public_url).
 - I publish blogs about Data Science with my IBM [Medium account](https://medium.com/@alvaro.corrales.cano).
+
+## Charles River Associates, Consulting Associate
+**Competition Practice**; London; August 2018 - July 2019
+Working in mergers and abuse of dominance cases.
+- Successfully advised PayPal in its acquisition of iZettle, a company in the card payments industry, in a $2.2bn operation.
+- Worked on other confidential cases in the tech, air transport and natural gas sectors in front of the UK’s and the EU’s competition authorities. 
+- Responsibilities ranged from analysing large datasets in Python and Stata to drafting economic reports to be presented as evidence in my cases.
+
+## Neovantas Consulting, Business Analyst
+Madrid; January 2016 - August 2017
+- **Banking sector** – Led a lighthouse project for the design and implementation of debt recovery strategy for a collection agency using speech analytics and econometric techniques. Improvement of up to +29 p.p. in collection ratios. Started this project as an intern; after one year, I was leading a team of three people, including client-facing responsibilities. 
+- **Banking sector** – Built for major European bank building an econometric model to evaluate the impact of internal management training.
+- **Mentor** of new colleagues.
 
 
 
