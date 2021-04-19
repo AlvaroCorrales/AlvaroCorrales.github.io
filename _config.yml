@@ -24,8 +24,8 @@ description              : "Alvaro Corrales' personal website. Blogs and Data Sc
 url                      : "https://alvarocorrales.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : https://github.com/AlvaroCorrales/AlvaroCorrales.github.io/blob/master/assets/images/Logo%20sin%20nombre.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : https://github.com/AlvaroCorrales/AlvaroCorrales.github.io/blob/master/assets/images/Logo%20sin%20nombre.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # https://github.com/AlvaroCorrales/AlvaroCorrales.github.io/blob/master/assets/images/Logo%20sin%20nombre.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # https://github.com/AlvaroCorrales/AlvaroCorrales.github.io/blob/master/assets/images/Logo%20sin%20nombre.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Álvaro Corrales Cano"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist and Economist"
   location         : "London"
   email            :
