@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /_pages/about/
+permalink: /_pages/blog/
 author_profile: true
-title: "About Me"
+title: "Tech blog"
 ---
 
 <style>
