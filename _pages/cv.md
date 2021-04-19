@@ -27,7 +27,7 @@ classes: wide
 
 .button:active {
   background-color: #7187bd;
-  box-shadow: 0 5px #666;
+  /* box-shadow: 0 5px #666; */
   transform: translateY(4px);
 }
 </style>
@@ -38,7 +38,7 @@ classes: wide
 
 # Education
 
-| Degree | University | Start date | End date |
+| Degree | University | From | To |
 | --- | --- | --- | --- |
 | [Master's Degree in Economics and Finance: Economics Program](https://barcelonagse.eu/study/masters-programs/economics) | Barcelona Graduate School of Economics | 08.2017 | 06.2018 |
 | [Bachelor's Degree in Economics](https://www.uc3m.es/bachelor-degree/economy) | Universidad Carlos III de Madrid | 09.2012 | 07.2016 |
