@@ -81,7 +81,30 @@ Working in mergers and abuse of dominance cases.
 
 
 ## Technical stack
-TBD
+### Methods
+My main area of expertise is **Econometrics**. Some of the techniques I am familiar with include:
+- **Causal inference** - Panel data, RCT, regression discontinuity
+- **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
+- **Time series** - ARIMA, GARCH
+- **Duration analysis**
+
+My experience also encompases other **Machine Learning** techniques, including:
+- **Natural Language Processing (NLP)** - Sentiment analysis, Topic modelling
+- **Supervised learning** algorithms such as linear and logistic regression, SVM, KNN, Random Forest and Gradient Boosting
+- **Clustering methods** such as Hierarchical clustering and K-Means
+
+I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published a blog about Bayesian Networks in [Towards Data Science](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8).
+
+### Technologies
+My main coding language is Python. My expertise includes:
+- Data wrangling: *numpy, pandas, scipy*
+- Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm, optuna*
+- Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
+- NLP: *gensim, nltk, spacy*
+
+As part of my job at IBM, I am also familiar with some **Cloud** technologies such as IBM Cloud and Cloud Pak for Data, as well as some basic knowledge of Docker. 
+
+i am also familiar with Stata, Excel and the basics of R. 
 
 ## Languages
 - Spanish (Native)
@@ -89,8 +112,7 @@ TBD
 - French (Intermediate)
 
 ## Interests
-
-- ML and Data Science
+- Machine Learning and Data Science
 - Podcasting
 - Ancient Greco-Roman History and Literature
 - Sports (Cycling, hiking)
