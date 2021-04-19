@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /about/
+permalink: /_pages/about/
 author_profile: true
 title: "About Me"
 ---
