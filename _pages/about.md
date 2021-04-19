@@ -37,14 +37,14 @@ title: "About Me"
 .column {
   align-content:center;
   float: left;
-  width: 50%;
+  width: 100%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 20%;
+  width: 100%;
   height: 100%;
 }
 
