@@ -3,6 +3,7 @@ layout: archive
 permalink: /_pages/blog/
 author_profile: true
 title: "Tech blog"
+layout: single
 ---
 
 <style>
