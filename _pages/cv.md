@@ -2,6 +2,7 @@
 layout: archive
 permalink: /_pages/cv/
 author_profile: true
+title: CV
 # redirect_from:
 #   - /resume
 classes: wide
@@ -10,8 +11,8 @@ classes: wide
 <style>
 .button {
   display: inline-block;
-  padding: 15px 25px;
-  font-size: 24px;
+  padding: 10px 20px;
+  font-size: 18px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
