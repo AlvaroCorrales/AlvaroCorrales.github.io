@@ -2,7 +2,7 @@
 title: "Welcome"
 excerpt: ""
 author_profile: true
-layout : single_index
+layout : home
 # redirect_from: 
 #     - /about/
 #     - /about.html
