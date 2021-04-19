@@ -88,7 +88,7 @@ My main area of expertise is **Econometrics**. Some of the techniques I am famil
 - **Time series** - ARIMA, GARCH
 - **Duration analysis**
 
-My experience also encompases other **Machine Learning** techniques, including:
+As a Data Scientist, my experience also encompases other **Machine Learning** techniques, including:
 - **Natural Language Processing (NLP)** - Sentiment analysis, Topic modelling
 - **Supervised learning** algorithms such as linear and logistic regression, SVM, KNN, Random Forest and Gradient Boosting
 - **Clustering methods** such as Hierarchical clustering and K-Means
@@ -96,7 +96,7 @@ My experience also encompases other **Machine Learning** techniques, including:
 I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published a blog about Bayesian Networks in [Towards Data Science](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8).
 
 ### Technologies
-My main coding language is Python. My expertise includes:
+**Python** is my main coding language. Some of the libraries that I typically use in my projects include:
 - Data wrangling: *numpy, pandas, scipy*
 - Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm, optuna*
 - Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
@@ -104,12 +104,11 @@ My main coding language is Python. My expertise includes:
 
 As part of my job at IBM, I am also familiar with some **Cloud** technologies such as IBM Cloud and Cloud Pak for Data, as well as some basic knowledge of Docker. 
 
-i am also familiar with Stata, Excel and the basics of R. 
+I am also familiar with Stata, Excel and the basics of R. 
 
 ## Languages
-- Spanish (Native)
-- English (Full proficiency)
-- French (Intermediate)
+I love learning languages! I think it's beautiful how much one can learn from a place and its culture from its language. I am a native **Spanish** speaker. After living in several English-speaking countries for several years, I am fully proficient in **English**. I also have an intermediate level of **French** (just need to clean off the rust!). During the year I spent in Barcelona, I was able to learn some Catalan on my own.
+
 
 ## Interests
 - Machine Learning and Data Science
