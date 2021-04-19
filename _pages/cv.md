@@ -20,7 +20,7 @@ classes: wide
   background-color: #7187bd;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
+  /* box-shadow: 0 9px #999; */
 }
 
 .button:hover {background-color: #7187bd}
@@ -59,7 +59,6 @@ TBD
 
 - ML and Data Science
 - Podcasting
-- Ancient History
-- Greco-Roman Literature
+- Ancient Greco-Roman History and Literature
 - Sports (Cycling, hiking)
 
