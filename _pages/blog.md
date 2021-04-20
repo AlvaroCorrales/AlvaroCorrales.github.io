@@ -60,6 +60,7 @@ title: "Tech blogs"
 #left-col {
   align-content:center;
   text-align: center;
+  width: 100%;
 }
 
 /* Clear floats after the columns */
