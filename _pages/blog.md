@@ -58,7 +58,7 @@ classes: wide
   text-align-last: center;
 }
 
-#left-col {
+.left-col {
   align-content:center;
   text-align: center;
 }
