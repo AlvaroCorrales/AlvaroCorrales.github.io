@@ -95,6 +95,7 @@ Whether it is for fun or as part of my job, I love writing - although sometimes 
 
 ## IBM-sponsored publications
 ### Medium
+IBM is comitted to sharing knowledge with the broader Data & AI community. As an IBM employee, I have shared my work on Medium publications such as [IBM Data and AI](https://medium.com/ibm-data-ai) and [IBM Garage](https://medium.com/ibm-garage).
 <br>
 <div id="medium-widget2"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
@@ -102,4 +103,4 @@ Whether it is for fun or as part of my job, I love writing - although sometimes 
 <br>
 
 ### Other
-[Causal analysis of the impact of lockdown measures on economic activity](https://emergentalliance.org/causal-analysis-of-the-impact-of-lockdown-measures-on-economic-activity/). In this piece of work for the [Emergent Alliance](https://emergentalliance.org/), we show how one can isolate the causal impact of different lockdown measures on social and economic indicators such as energy consumption and people's mobility.  
+[**Causal analysis of the impact of lockdown measures on economic activity**](https://emergentalliance.org/causal-analysis-of-the-impact-of-lockdown-measures-on-economic-activity/) - In this piece of work for the [Emergent Alliance](https://emergentalliance.org/), we show how one can isolate the causal impact of different lockdown measures on social and economic indicators such as energy consumption and people's mobility.  
