@@ -21,13 +21,13 @@ classes: wide
   background-color: #00CED1;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 4px #999;
+  box-shadow: 0 5px #999;
 }
 
-.button:hover {background-color: #7187bd} 
+.button:hover {background-color: #00CED1} 
 
 .button:active {
-  background-color: #7187bd;
+  background-color: #00CED1;
   /* box-shadow: 0 5px #666; */
   transform: translateY(4px);
 }
