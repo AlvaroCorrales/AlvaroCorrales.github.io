@@ -5,7 +5,7 @@ author_profile: true
 title: "Tech blogs"
 ---
 
-<style>
+<!-- <style>
 
   @import "compass/css3";
 
@@ -82,7 +82,7 @@ i {
   align-content:center;
   text-align: center;
 }
-</style>
+</style> -->
 
 Whether it is for fun or as part of my job, I love writing - although sometimes I don't have as much time as I would like to do it! In this page, you will find some of my latest blog posts about Data Science. Any feedback is welcome!
 
