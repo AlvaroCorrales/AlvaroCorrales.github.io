@@ -38,14 +38,14 @@ classes: wide
 .column {
   align-content:center;
   float: left;
-  width: 50%;
+  width: 100%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 100%;
+  width: 20%;
   height: 100%;
 }
 
