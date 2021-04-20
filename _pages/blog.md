@@ -37,21 +37,21 @@ title: "Tech blogs"
 .column {
   align-content:center;
   float: left;
-  width: 50%;
+  width: 100%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 50%;
+  width: 100%;
   height: 100%;
 }
 
 
 .center_text {
   align-content:center;
-  width: 50%;
+  width: 100%;
   vertical-align: middle;
   text-align:justify;
   text-align-last: center;
