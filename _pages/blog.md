@@ -89,7 +89,6 @@ Whether it is for fun or as part of my job, I love writing - although sometimes 
 ## Medium Articles
 
 ### Personal work
-blablabla
 <br>
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
@@ -97,7 +96,6 @@ blablabla
 <br>
 
 ### IBM-sponsored articles
-blabla
 <br>
 <div id="medium-widget2"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
