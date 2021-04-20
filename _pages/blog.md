@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: archive
 permalink: /_pages/blog/
 author_profile: true
 title: "Tech blogs"
-classes: wide
 ---
 
 <style>
