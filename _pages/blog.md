@@ -103,4 +103,4 @@ IBM is comitted to sharing knowledge with the broader Data & AI community. As an
 <br>
 
 ### Other
-[**Causal analysis of the impact of lockdown measures on economic activity**](https://emergentalliance.org/causal-analysis-of-the-impact-of-lockdown-measures-on-economic-activity/) - In this piece of work for the [Emergent Alliance](https://emergentalliance.org/), we show how one can isolate the causal impact of different lockdown measures on social and economic indicators such as energy consumption and people's mobility.  
+- [**Causal analysis of the impact of lockdown measures on economic activity**](https://emergentalliance.org/causal-analysis-of-the-impact-of-lockdown-measures-on-economic-activity/) - In this piece of work for the [Emergent Alliance](https://emergentalliance.org/), we show how one can isolate the causal impact of different lockdown measures on social and economic indicators such as energy consumption and people's mobility.  
