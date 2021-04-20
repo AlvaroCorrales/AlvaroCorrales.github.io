@@ -91,13 +91,14 @@ Whether it is for fun or as part of my job, I love writing - although sometimes 
 ### Personal work
 <br>
 <div id="medium-widget"></div>
-<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@acorralescano","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
-<br>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@acorralescano","postsPerLine":2,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+
+</br>
 
 ### IBM-sponsored articles
 <br>
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
 <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@alvaro.corrales.cano","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
-<br>
+</br>
