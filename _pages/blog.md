@@ -38,7 +38,7 @@ classes: wide
 .column {
   align-content:center;
   float: left;
-  width: 50%;
+  width: 20%;
   height: 100%;
 }
 
@@ -52,7 +52,7 @@ classes: wide
 
 .center_text {
   align-content:center;
-  width: 50%;
+  width: 20%;
   vertical-align: middle;
   text-align:justify;
   text-align-last: center;
