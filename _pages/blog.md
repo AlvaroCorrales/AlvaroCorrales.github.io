@@ -84,18 +84,20 @@ i {
 }
 </style>
 
-I love writing, although sometimes I don't have as much time as I would like to do it! In this page, you will find some of my latest blog posts about Data Science. Any feedback is welcome!
+Whether it is for fun or as part of my job, I love writing - although sometimes I don't have as much time as I would like to do it! In this page, you will find some of my latest blog posts about Data Science. Any feedback is welcome!
 
-# Medium Articles
+## Medium Articles
 
+### Personal work
 <br>
-
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
 <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@acorralescano","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+<br>
 
+### IBM-sponsored articles
+<br>
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
 <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@alvaro.corrales.cano","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
-
 <br>
