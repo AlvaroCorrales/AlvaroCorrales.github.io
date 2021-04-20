@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: archive
 permalink: /_pages/blog/
 author_profile: true
-title: "Tech blog"
-
+title: "Tech blogs"
 ---
 
 <style>
@@ -14,8 +13,8 @@ title: "Tech blog"
   $background-color: hsl(50, 5, 97);
   $black: hsl(200, 40, 10);
   $white: $background-color;
-  $base-font-size: 2em;
-  $base-line-height: 1.3em;
+  $base-font-size: 2.4em;
+  $base-line-height: 1.5em;
 
   .ludwig {
   position: relative;
@@ -38,14 +37,14 @@ title: "Tech blog"
 .column {
   align-content:center;
   float: left;
-  width: 100%;
+  width: 50%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 100%;
+  width: 20%;
   height: 100%;
 }
 
