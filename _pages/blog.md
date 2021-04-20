@@ -37,21 +37,21 @@ title: "Tech blogs"
 .column {
   align-content:center;
   float: left;
-  width: 20%;
+  width: 50%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 20%;
+  width: 50%;
   height: 100%;
 }
 
 
 .center_text {
   align-content:center;
-  width: 20%;
+  width: 50%;
   vertical-align: middle;
   text-align:justify;
   text-align-last: center;
@@ -60,7 +60,6 @@ title: "Tech blogs"
 #left-col {
   align-content:center;
   text-align: center;
-  width: 100%;
 }
 
 /* Clear floats after the columns */
