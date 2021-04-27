@@ -19,7 +19,8 @@ I recently opened a personal Medium account. My first article made it to the Edi
 
 ## As part of IBM
 ### Events and presentations
-- [![PyData event Berlin](/assets/images/pydata_thumbnail.png)](https://youtu.be/T3SsCjXhQD4?t=1457 "PyDataBerlin event")
+- As part of the IBM team working with the [Emergent Alliance](https://emergentalliance.org/), we show how one can isolate the causal impact of different lockdown measures on social and economic indicators such as energy consumpt, I presented some of our work in the November 2020 edition of the PyData Berlin Meetup. 
+[![PyData event Berlin](/assets/images/pydata_thumbnail.png)](https://youtu.be/T3SsCjXhQD4?t=1457 "PyDataBerlin event")
 
 ### Medium articles
 IBM is comitted to sharing knowledge with the broader Data & AI community. As an IBM employee, I have shared my work on Medium publications such as [IBM Data and AI](https://medium.com/ibm-data-ai) and [IBM Garage](https://medium.com/ibm-garage).
