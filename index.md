@@ -1,13 +1,10 @@
 ---
 title: "Welcome"
 excerpt: ""
-header:
-    image: "/assets/images/header_temp.jpg"
+# header:
+#    image: "/assets/images/header_temp.jpg"
 author_profile: true
 layout : single
-# redirect_from: 
-#     - /about/
-#     - /about.html
 ---
 
 Welcome to my personal website! My name is Álvaro and I am a Data Scientist and Economist, currently working at IBM.
