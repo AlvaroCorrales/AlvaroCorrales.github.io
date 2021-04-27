@@ -69,8 +69,8 @@ I am also familiar with Stata, Excel and the basics of R.
 
 Helping organisations use their data with Cloud technology, AI and an Agile methodologies. Show the value of IBM’s Cloud Pak for Data through PoC and MVP. Some projects include:
 
-- **Emergent Alliance** -  Led two teams producing open-source material in the fight against Covid-19. Code available on Github.
-  - Co-authored a model of the economy to study how economic shocks propagate across economic sectors. The Alliance spined it of as a publicly available [app](https://emergentalliance.org/products-and-services/economic-engine/). 
+- **Emergent Alliance** -  Led two teams producing open-source material in the fight against Covid-19. The code is available on [Github](https://github.com/emergent-analytics/workstreams).
+  - Co-authored a model of the economy to study how economic shocks propagate across economic sectors and built an web app to interact with it. The Alliance was very satisfied with the final version of the tool. It is now one of its flagship products, available through this [link](https://emergentalliance.org/products-and-services/economic-engine/). 
   - Identified mental health problems and perception of vaccines for NHS on Twitter using topic modelling and sentiment analysis.
 - **Publishing industry** - Demonstrated how to leverage NLP and clustering techniques to identify authors of comments in online forums that use different user names across several platforms. 
 - **Energy sector** – Improved the data collection and organisation process of a company by using a harmonised catalogue with data protection rules, which can be partially accessed by external users, as required by national regulations.
@@ -83,7 +83,7 @@ Helping organisations use their data with Cloud technology, AI and an Agile meth
 ### [Charles River Associates](https://ecp.crai.com/) 
 **Consulting Associate, Competition Practice** | London | August 2018 - July 2019 
 
-Working in mergers and abuse of dominance cases.
+Worked in mergers and abuse of dominance cases.
 - Successfully advised PayPal in its acquisition of iZettle, a company in the card payments industry, in a $2.2bn operation.
 - Worked on other confidential cases in the tech, air transport and natural gas sectors in front of the UK’s and the EU’s competition authorities. 
 - Responsibilities ranged from analysing large datasets in Python and Stata to drafting economic reports to be presented as evidence in my cases.
