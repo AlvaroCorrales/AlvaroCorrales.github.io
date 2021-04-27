@@ -19,7 +19,7 @@ I recently opened a personal Medium account. My first article made it to the Edi
 
 ## As part of IBM
 ### Events and presentations
-As part of the IBM team working with the [Emergent Alliance](https://emergentalliance.org/), I presented some of our work in the November 2020 edition of the PyData Berlin Meetup. 
+As part of the IBM team working with the [Emergent Alliance](https://emergentalliance.org/), I presented some of our work in the November 2020 edition of the PyData Berlin Meetup. Click on the image below to watch the recording of the session. 
 &nbsp;
 &nbsp;
 [![PyData Berlin event](/assets/images/pydata_thumbnail.png)](https://youtu.be/T3SsCjXhQD4?t=1457 "PyData Berlin event")
