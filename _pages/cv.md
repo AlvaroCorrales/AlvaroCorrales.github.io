@@ -8,7 +8,7 @@ classes: wide
 
 **TL;DR**. I currently work as a Data Scientist at IBM, with over 4 years of experience in client-facing roles. I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
 
-My most recent career milestone: after 2.5 years in management and economic consulting, I decided to pursue a career in Data Science, an exciting field filled with learning opportunities and room for innovation.   
+My most recent career milestone: after 2.5 years in management and economic consulting, I decided to pursue a career in Data Science, an exciting field with plenty of learning opportunities and room for innovation.   
 
 <style>
 .button {
