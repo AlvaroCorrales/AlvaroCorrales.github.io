@@ -3,10 +3,10 @@ layout: single
 permalink: /_pages/cv/
 author_profile: true
 title: Curriculum Vitae
-# redirect_from:
-#   - /resume
 classes: wide
 ---
+
+**TL;DR** I currently work as a Data Scientist at IBM, with over 4 years of experience in client facing roles and specialising in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. After 2.5 years in management and economic consulting, I decided to pursue a career in Data Science, an exciting field filled with learning opportunities and room for innovation.   
 
 <style>
 .button {
@@ -39,7 +39,7 @@ classes: wide
 
 ## Technical stack
 ### Methods
-My main area of expertise is **Econometrics**. Some of the techniques I am familiar with include:
+My main area of expertise is **Econometrics**. Some of the techniques I specialise in include:
 - **Causal inference** - Panel data, RCT, regression discontinuity
 - **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
 - **Time series** - ARIMA, GARCH
