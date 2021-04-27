@@ -2,7 +2,7 @@
 title: "Welcome"
 excerpt: ""
 header:
-    image: "/assets/images/header_temp.jpg"
+    image: "/assets/images/header_temp2.png"
 author_profile: true
 layout : single
 ---
