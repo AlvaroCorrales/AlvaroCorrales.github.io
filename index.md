@@ -1,8 +1,8 @@
 ---
 title: "Welcome"
 excerpt: ""
-# header:
-#    image: "/assets/images/header_temp.jpg"
+header:
+    image: "/assets/images/header_temp.jpg"
 author_profile: true
 layout : single
 ---
