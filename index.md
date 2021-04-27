@@ -8,7 +8,7 @@ layout : single
 #     - /about.html
 ---
 
-Welcome to my personal website! My name is Álvaro and I am a Data Scientist and Economist. 
+Welcome to my personal website! My name is Álvaro and I am a Data Scientist and Economist, currently working at IBM.
 
 This site is still under construction - in fact, this is a learning project for me. I will be adding new content with time. Stay tuned!
 
