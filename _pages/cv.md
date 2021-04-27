@@ -37,6 +37,32 @@ classes: wide
 
 <br>
 
+## Technical stack
+### Methods
+My main area of expertise is **Econometrics**. Some of the techniques I am familiar with include:
+- **Causal inference** - Panel data, RCT, regression discontinuity
+- **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
+- **Time series** - ARIMA, GARCH
+- **Duration analysis**
+
+As a Data Scientist, my experience also encompases other **Machine Learning** techniques, including:
+- **Natural Language Processing (NLP)** - Sentiment analysis, Topic modelling
+- **Supervised learning** algorithms such as linear and logistic regression, SVM, KNN, Random Forest and Gradient Boosting
+- **Clustering methods** such as Hierarchical clustering and K-Means
+
+I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published a blog about Bayesian Networks in [Towards Data Science](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8).
+
+### Technologies
+**Python** is my main coding language. Some of the libraries that I typically use in my projects include:
+- Data wrangling: *numpy, pandas, scipy*
+- Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm, optuna*
+- Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
+- NLP: *gensim, nltk, spacy*
+
+As part of my job at IBM, I am also familiar with some **Cloud** technologies such as IBM Cloud and Cloud Pak for Data, as well as some basic knowledge of Docker. 
+
+I am also familiar with Stata, Excel and the basics of R. 
+
 ## Professional Experience
 ### [IBM](https://www.ibm.com/uk-en/garage)
 **Data Scientist** | London | November 2019 - Present
@@ -78,32 +104,6 @@ Working in mergers and abuse of dominance cases.
 | [Bachelor's Degree in Economics](https://www.uc3m.es/bachelor-degree/economy) | Universidad Carlos III de Madrid | 09.2012 | 07.2016 |
 | Bachelor's Degree in Economics - Exchange Year | University of California, Berkeley | 08.2014 | 05.2015 |
 
-
-## Technical stack
-### Methods
-My main area of expertise is **Econometrics**. Some of the techniques I am familiar with include:
-- **Causal inference** - Panel data, RCT, regression discontinuity
-- **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
-- **Time series** - ARIMA, GARCH
-- **Duration analysis**
-
-As a Data Scientist, my experience also encompases other **Machine Learning** techniques, including:
-- **Natural Language Processing (NLP)** - Sentiment analysis, Topic modelling
-- **Supervised learning** algorithms such as linear and logistic regression, SVM, KNN, Random Forest and Gradient Boosting
-- **Clustering methods** such as Hierarchical clustering and K-Means
-
-I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published a blog about Bayesian Networks in [Towards Data Science](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8).
-
-### Technologies
-**Python** is my main coding language. Some of the libraries that I typically use in my projects include:
-- Data wrangling: *numpy, pandas, scipy*
-- Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm, optuna*
-- Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
-- NLP: *gensim, nltk, spacy*
-
-As part of my job at IBM, I am also familiar with some **Cloud** technologies such as IBM Cloud and Cloud Pak for Data, as well as some basic knowledge of Docker. 
-
-I am also familiar with Stata, Excel and the basics of R. 
 
 ## Languages
 I love learning languages! I think it's beautiful how much one can learn from a place and its culture from its language. I am a native **Spanish** speaker. After living in several English-speaking countries for several years, I am fully proficient in **English**. I also have an intermediate level of **French** (just need to clean off the rust!). During the year I spent in Barcelona, I was able to learn some Catalan on my own.
