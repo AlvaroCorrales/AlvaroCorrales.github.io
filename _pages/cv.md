@@ -6,7 +6,9 @@ title: Curriculum Vitae
 classes: wide
 ---
 
-**TL;DR** I currently work as a Data Scientist at IBM, with over 4 years of experience in client facing roles and specialising in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. After 2.5 years in management and economic consulting, I decided to pursue a career in Data Science, an exciting field filled with learning opportunities and room for innovation.   
+**TL;DR**. I currently work as a Data Scientist at IBM, with over 4 years of experience in client-facing roles. I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
+
+My most recent career milestone: after 2.5 years in management and economic consulting, I decided to pursue a career in Data Science, an exciting field filled with learning opportunities and room for innovation.   
 
 <style>
 .button {
@@ -33,7 +35,7 @@ classes: wide
 }
 </style>
 
-<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_042021.pdf'" type="button">Download the PDF version</button>
+<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_042021.pdf'" type="button">Download my CV in PDF</button>
 
 <br>
 
