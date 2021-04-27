@@ -97,7 +97,7 @@ author:
   name             : "Álvaro Corrales Cano"
   avatar           : "/assets/images/profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist and Economist"
-  location         : "London"
+  location         : "London, UK"
   email            :
   links:
     - label: "Email"
