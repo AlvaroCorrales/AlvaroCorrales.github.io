@@ -102,9 +102,9 @@ Worked in mergers and abuse of dominance cases.
 
 | Degree | University | From | To |
 | --- | --- | --- | --- |
-| [Master's Degree in Economics and Finance: Economics Program](https://barcelonagse.eu/study/masters-programs/economics) | Barcelona Graduate School of Economics | 08.2017 | 06.2018 |
-| [Bachelor's Degree in Economics](https://www.uc3m.es/bachelor-degree/economy) | Universidad Carlos III de Madrid | 09.2012 | 07.2016 |
-| Bachelor's Degree in Economics - Exchange Year | University of California, Berkeley | 08.2014 | 05.2015 |
+| [Master's Degree in Economics and Finance: Economics Program](https://barcelonagse.eu/study/masters-programs/economics) | Barcelona Graduate School of Economics | Aug 2017 | Jun 2018 |
+| [Bachelor's Degree in Economics](https://www.uc3m.es/bachelor-degree/economy) | Universidad Carlos III de Madrid | Sep 2012 | Jul 2016 |
+| Bachelor's Degree in Economics - Exchange Year | University of California, Berkeley | Aug 2014 | May 2015 |
 
 
 ## Languages
