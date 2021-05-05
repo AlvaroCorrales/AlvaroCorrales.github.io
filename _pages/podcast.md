@@ -6,4 +6,4 @@ title: La Albiónica Podcast
 classes: wide
 ---
 
-![image](/assets/images/albionica_podcast_apaisado.png)
+![image](/assets/images/albionica_podcast_cuadrado.png)
