@@ -11,11 +11,10 @@ title: Podcast
 
 Mi amigo Pablo Antón y yo estamos convencidos de que textos como la Odisea, las Historias o las Vidas Paralelas están tan llenos de vida, ingenio y conocimiento como el primer día. Por eso, en febrero de 2020 lanzamos el podcast **La Albiónica**. En La Albiónica exploramos libros, historias y teorías que han sobrevivido a la prueba del tiempo a la vez que nos echamos unas risas. Tanto si eres un experto en historia y literatura antigua, como si te echabas la siesta en el instituto tras escuchar la palabra "Odisea", una cosa es segura: con La Albiónica te vas a divertir y algo vas a aprender. 
 
+<iframe src="https://open.spotify.com/embed-podcast/show/0POawCJi9rttR0TZWv0SAf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 La Albiónica está disponible en las plataformas más importantes de streaming:
 - [iVoox](https://www.ivoox.com/podcast-albionica_sq_f1856458_1.html)
 - [Spotify](https://open.spotify.com/show/0POawCJi9rttR0TZWv0SAf?si=OtKTMZGSSACRCHJaW5RsVQ)
 - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/la-albi%C3%B3nica/id1503993534?i=1000517125285)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtYWxiaW9uaWNhX2ZnX2YxODU2NDU4X2ZpbHRyb18xLnhtbA)
-
-
-<iframe src="https://open.spotify.com/embed-podcast/show/0POawCJi9rttR0TZWv0SAf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
