@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /_pages/podcast/
 author_profile: true
 title: Podcast
