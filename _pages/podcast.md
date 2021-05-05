@@ -2,6 +2,8 @@
 layout: single
 permalink: /_pages/podcast/
 author_profile: true
-title: Podcast - La Albiónica
+title: La Albiónica Podcast
 classes: wide
 ---
+
+![image](/assets/images/albionica_podcast_apaisado.png)
