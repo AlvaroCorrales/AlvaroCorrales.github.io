@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "About"
 excerpt: ""
 header:
     image: "/assets/images/header_temp2.png"

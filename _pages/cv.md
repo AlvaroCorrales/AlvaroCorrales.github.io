@@ -3,7 +3,7 @@ layout: single
 permalink: /_pages/cv/
 author_profile: true
 title: Curriculum Vitae
-classes: wide
+classes: single
 ---
 
 **TL;DR**. I currently work as a Data Scientist at IBM, with over 4 years of experience in client-facing roles. I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
