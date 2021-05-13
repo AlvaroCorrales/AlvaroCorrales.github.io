@@ -8,7 +8,7 @@ classes: single
 
 **TL;DR**. I currently work as a Data Scientist at IBM, with over 4 years of experience in client-facing roles. I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
 
-After 2.5 years in management and economic consulting, in mid-2020 I decided to pursue a career in Data Science. By that time, Data Science had become an exciting and innovative field, as well as a meeting point for people with very diverse backgrounds with plenty of room for cross-disciplinary collaboration.   
+After 2.5 years in management and economic consulting, in mid-2019 I decided to pursue a career in Data Science. By that time, Data Science had become an exciting and innovative field, as well as a meeting point for people with very diverse backgrounds with plenty of room for cross-disciplinary collaboration.   
 
 <style>
 .button {
