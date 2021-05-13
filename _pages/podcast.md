@@ -9,7 +9,7 @@ title: Podcast
 
 *La Albiónica is a podcast in Spanish, so all the information provided in this page is also in Spanish.*
 
-Mi amigo Pablo Antón y yo estamos convencidos de que textos como la Odisea, las Historias o las Vidas Paralelas están tan llenos de vida, ingenio y conocimiento como el primer día. Por eso, en febrero de 2020 lanzamos el podcast **La Albiónica**. 
+Mi amigo Pablo Antón y yo estamos convencidos de que textos como la Odisea de Homero, las Historias de Heródoto o las Vidas Paralelas de Plutarco están tan llenos de vida, ingenio y conocimiento hoy, como lo estuvieron el primer día. Por eso, en febrero de 2020 lanzamos el podcast **La Albiónica**. 
 
 En La Albiónica exploramos libros, historias y teorías que han sobrevivido a la prueba del tiempo a la vez que nos echamos unas risas. Tanto si eres un experto en historia y literatura antigua, como si te echabas la siesta en el instituto tras escuchar la palabra "Odisea", una cosa es segura: con La Albiónica te vas a divertir y algo vas a aprender. 
 
