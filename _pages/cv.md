@@ -39,8 +39,8 @@ After 2.5 years in management and economic consulting, in mid-2019 I decided to 
 
 <br>
 
-### Technical stack
-#### Methods
+## Technical stack
+### Methods
 My main area of expertise is **Econometrics**. Some of the techniques I specialise in include:
 - **Causal inference** - Panel data, RCT, regression discontinuity
 - **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
@@ -54,7 +54,7 @@ As a Data Scientist, my experience also encompases other **Machine Learning** te
 
 I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published a blog about Bayesian Networks in [Towards Data Science](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8).
 
-#### Technologies
+### Technologies
 **Python** is my main coding language. Some of the libraries that I typically use in my projects include:
 - Data wrangling: *numpy, pandas, scipy*
 - Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm, optuna*
@@ -65,8 +65,8 @@ As part of my job at IBM, I am also familiar with some **Cloud** technologies su
 
 I am also familiar with Stata, Excel and the basics of R. 
 
-### Professional Experience
-#### [IBM](https://www.ibm.com/uk-en/garage)
+## Professional Experience
+### [IBM](https://www.ibm.com/uk-en/garage)
 **Data Scientist** | London | November 2019 - Present
 
 Helping organisations use their data with Cloud technology, AI and an Agile methodologies. Show the value of IBM’s Cloud Pak for Data through PoC and MVP. Some projects include:
@@ -82,7 +82,7 @@ Helping organisations use their data with Cloud technology, AI and an Agile meth
 - Mentoring people that want to start a career as a Data Scientist, for which I have also gained [recognition](https://www.youracclaim.com/badges/e48a1e85-043a-4d69-84f7-372072a03248/public_url).
 - I publish blogs about Data Science with my IBM [Medium account](https://medium.com/@alvaro.corrales.cano).
 
-#### [Charles River Associates](https://ecp.crai.com/) 
+### [Charles River Associates](https://ecp.crai.com/) 
 **Consulting Associate, Competition Practice** | London | August 2018 - July 2019 
 
 Worked in mergers and abuse of dominance cases.
@@ -90,7 +90,7 @@ Worked in mergers and abuse of dominance cases.
 - Worked on other confidential cases in the tech, air transport and natural gas sectors in front of the UK’s and the EU’s competition authorities. 
 - Responsibilities ranged from analysing large datasets in Python and Stata to drafting economic reports to be presented as evidence in my cases.
 
-#### [Neovantas Consulting](https://www.neovantas.com/en/home/)
+### [Neovantas Consulting](https://www.neovantas.com/en/home/)
 **Business Analyst** | Madrid | January 2016 - August 2017 
 
 - **Banking sector** – Led a lighthouse project for the design and implementation of debt recovery strategy for a collection agency using speech analytics and econometric techniques. Improvement of up to +29 p.p. in collection ratios. Started this project as an intern; after one year, I was leading a team of three people, including client-facing responsibilities. 
@@ -98,7 +98,7 @@ Worked in mergers and abuse of dominance cases.
 - **Mentor** of new colleagues.
 
 
-### Education
+## Education
 
 | Degree | University | From | To |
 | --- | --- | --- | --- |
@@ -107,11 +107,11 @@ Worked in mergers and abuse of dominance cases.
 | Bachelor's Degree in Economics - Exchange Year | University of California, Berkeley | Aug 2014 | May 2015 |
 
 
-### Languages
+## Languages
 I love learning languages! I think it's beautiful how much one can learn from a place and its culture from its language. I am a native **Spanish** speaker. After living in several English-speaking countries for several years, I am fully proficient in **English**. I also have an intermediate level of **French** (just need to clean off the rust!). During the year I spent in Barcelona, I was able to learn some Catalan on my own.
 
 
-### Interests
+## Interests
 - Machine Learning and Data Science
 - Podcasting
 - Ancient Greco-Roman History and Literature
