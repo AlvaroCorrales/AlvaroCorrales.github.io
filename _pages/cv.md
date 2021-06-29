@@ -57,7 +57,7 @@ I love working with data, and so I love expanding my knowledge with new techniqu
 ### Technologies
 **Python** is my main coding language. Some of the libraries that I typically use in my projects include:
 - Data wrangling: *numpy, pandas, scipy*
-- Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm, optuna*
+- Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm*
 - Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
 - NLP: *gensim, nltk, spacy*
 
