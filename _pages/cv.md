@@ -73,14 +73,14 @@ Helping organisations use their data with Cloud technology, AI and an Agile meth
 
 - **Emergent Alliance** -  Led two teams producing open-source material in the fight against Covid-19. The code is available on [Github](https://github.com/emergent-analytics/workstreams).
   - Co-authored a model of the economy to study how economic shocks propagate across economic sectors and built an web app to interact with it. The Alliance was very satisfied with the final version of the tool. It is now one of its flagship products, available through this [link](https://emergentalliance.org/products-and-services/economic-engine/). 
-  - Identified mental health problems and perception of vaccines for NHS on Twitter using topic modelling and sentiment analysis.
-- **Publishing industry** - Demonstrated how to leverage NLP and clustering techniques to identify authors of comments in online forums that use different user names across several platforms. 
+  - Identified mental health problems and perception of vaccines for NHS on Twitter using topic modelling (LDA), sentiment analysis (Watson NLU) and LSTM.
+- **Publishing industry** - Created a ML pipeline to identify authors of comments on various online forums using doc2vec and K-means clustering.
 - **Energy sector** – Improved the data collection and organisation process of a company by using a harmonised catalogue with data protection rules, which can be partially accessed by external users, as required by national regulations.
 
-**Give back**
-- I have spoken in public events with organisations such as Code First Girls and PyData London, for which I have achieved recognition as a public [speaker](https://www.youracclaim.com/badges/f94d74c3-e287-4a33-947e-1982c5ee4432/public_url) and [teacher](https://www.youracclaim.com/badges/dd074e83-1583-4f46-bc08-bfef41fe8d3d/public_url).
-- Mentoring people that want to start a career as a Data Scientist, for which I have also gained [recognition](https://www.youracclaim.com/badges/e48a1e85-043a-4d69-84f7-372072a03248/public_url).
-- I publish blogs about Data Science with my IBM [Medium account](https://medium.com/@alvaro.corrales.cano).
+**Other**
+- I have spoken in public events with organisations such as Code First Girls, PyData London or the University of Sheffield, for which I have achieved recognition as a public [speaker](https://www.youracclaim.com/badges/f94d74c3-e287-4a33-947e-1982c5ee4432/public_url) and [teacher](https://www.youracclaim.com/badges/dd074e83-1583-4f46-bc08-bfef41fe8d3d/public_url).
+- [Recognised mentor](https://www.youracclaim.com/badges/e48a1e85-043a-4d69-84f7-372072a03248/public_url) of aspiring data scientists.
+- Participated in recruitment activities for my team, designing coding exercises and interviewing candidates.
 
 ### [Charles River Associates](https://ecp.crai.com/) 
 **Consulting Associate, Competition Practice** | London | August 2018 - July 2019 
