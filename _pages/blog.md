@@ -10,7 +10,7 @@ Whether it is for fun or as part of my job, I love writing and sharing knowledge
 
 ## Personal
 ### Medium articles
-I recently opened a personal Medium account. My first article made it to the Editors' Picks and Hands-on Tutorials section of [Towards Data Science](https://towardsdatascience.com/), a popular Data Science publication on Medium with over 580K followers.
+I recently opened a personal Medium account. Some of my articles have made it to the Editors' Picks and Hands-on Tutorials section of [Towards Data Science](https://towardsdatascience.com/), a popular Data Science publication on Medium with over 580K followers.
 <br>
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
