@@ -41,18 +41,18 @@ After 2.5 years in management and economic consulting, in mid-2019 I decided to 
 
 ## Technical stack
 ### Methods
-My main area of expertise is **Econometrics**. Some of the techniques I specialise in include:
-- **Causal inference** - Panel data, RCT, regression discontinuity
+As a Data Scientist, my experience encompases **Machine Learning** techniques such as:
+- **Natural Language Processing (NLP)** - Topic Modelling (LDA), Sentiment analysis (Watson NLU), Embeddings (doc2vec, word2vec), Language Models (see my [article](https://towardsdatascience.com/assyrian-or-babylonian-language-identification-in-cuneiform-texts-4f15a14a5d70) in Towards Data Science)
+- **Supervised learning** algorithms such as linear and logistic regression, SVM, KNN, Random Forest and Gradient Boosting
+- **Clustering methods** such as Hierarchical clustering and K-Means
+
+As an economist, I have extensive training in the field of **Econometrics**. Some of the techniques I specialise in include:
+- **Causal inference** - Panel data, Randomised Controlled Trials (RCT), regression discontinuity
 - **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
 - **Time series** - ARIMA, GARCH
 - **Duration analysis**
 
-As a Data Scientist, my experience also encompases other **Machine Learning** techniques, including:
-- **Natural Language Processing (NLP)** - Sentiment analysis, Topic modelling
-- **Supervised learning** algorithms such as linear and logistic regression, SVM, KNN, Random Forest and Gradient Boosting
-- **Clustering methods** such as Hierarchical clustering and K-Means
-
-I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published a blog about Bayesian Networks in [Towards Data Science](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8).
+I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published an [article](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8) about Bayesian Networks in Towards Data Science.
 
 ### Technologies
 **Python** is my main coding language. Some of the libraries that I typically use in my projects include:
@@ -61,9 +61,9 @@ I love working with data, and so I love expanding my knowledge with new techniqu
 - Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
 - NLP: *gensim, nltk, spacy*
 
-As part of my job at IBM, I am also familiar with some **Cloud** technologies such as IBM Cloud and Cloud Pak for Data, as well as some basic knowledge of Docker. 
+As part of my job at IBM, I am also familiar with **Cloud** technologies such as IBM Cloud and Cloud Pak for Data, as well as some knowledge of Docker. 
 
-I am also familiar with Stata, Excel and the basics of R. 
+I am also familiar with Stata, Excel, R, Spark and SQL. 
 
 ## Professional Experience
 ### [IBM](https://www.ibm.com/uk-en/garage)
