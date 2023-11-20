@@ -35,11 +35,7 @@ After 2.5 years in management and economic consulting, in mid-2019 I decided to 
 }
 </style>
 
-<<<<<<< Updated upstream
-<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_07_2021.pdf'" type="button">Download my CV in PDF</button>
-=======
 <button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_112023.pdf'" type="button">Download my CV in PDF</button>
->>>>>>> Stashed changes
 
 <br>
 
