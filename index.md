@@ -7,7 +7,7 @@ author_profile: true
 layout : single
 ---
 
-Welcome to my personal website! My name is Álvaro and I am a Senior Data Scientist. An Economist by background, I am primarily interested in the intersection between traditional Econometrics and modern applications in Data Science and AI, such as causal inference and time series analysis. 
+Welcome to my personal website! My name is Álvaro and I am a Senior Data Scientist. An Economist by background, I am primarily interested in the intersection between traditional Econometrics and modern applications in Data Science and AI, such as causal inference and time series analysis. I also have a big love for words, so I am a big fan of all things NLP. 
 
 I am an enthusiast of data evangelisation, blogging and general scientific and cultural communication. As such, I have built this website to collect in a single repository all the pieces of work that I have published in different channels. Here, you will find content about Data Science and Economics, my two areas of professional specialisation, but also about some of my hobbies. This includes the podcast "[La Albiónica](/_pages/podcast/)", where we talk about ancient books and history. 
 
