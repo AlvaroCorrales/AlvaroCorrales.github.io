@@ -13,7 +13,7 @@ I am an enthusiast of data evangelisation, blogging and general scientific and c
 
 This website is in constant development. In fact, it is a learning project for me, so don't be surprised if it looks entirely different if you revisit it in a matter of days! 
 
-> I am currently on a career break. I am spending my time travelling the world, learning about new cultures and languages, reading (mostly history) books, and enjoying nature. I will be looking for positions at the intersection of Economics, Econometrics and Data Science, **starting in Summer 2024**. 
+> I am currently on a career break. I am spending my time travelling the world, learning about new cultures and languages, reading (mostly history) books, and enjoying nature. I will be looking for positions at the intersection of Economics and Data Science, **starting in Summer 2024**. 
 
 #### Disclaimer
 Unless stated otherwise, the content of this website is my personal work. Hence, it does not reflect the views of nor is proprietary to my current or former employers. 
