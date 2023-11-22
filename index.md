@@ -17,5 +17,5 @@ This website is in constant development. In fact, it is a learning project for m
 
 #### Disclaimer
 Unless stated otherwise, the content of this website is my personal work. Hence, it does not reflect the views of nor is proprietary to my current or former employers. 
-
-*Wondering about the windmills in the header image? This photo was taken in Consuegra, very close to my hometown, [Madridejos](https://www.google.com/maps/place/45710+Madridejos,+Toledo,+Spain/@39.4714388,-3.5501253,4472m/data=!3m2!1e3!4b1!4m5!3m4!1s0xd6990fcfb5a6c5d:0xb035db616bb6aa52!8m2!3d39.4717383!4d-3.5332049), in the Castilla-La Mancha region in Spain. (Photo credit: Wei Huang in Unsplash.)*
+<!-- 
+*Wondering about the windmills in the header image? This photo was taken in Consuegra, very close to my hometown, [Madridejos](https://www.google.com/maps/place/45710+Madridejos,+Toledo,+Spain/@39.4714388,-3.5501253,4472m/data=!3m2!1e3!4b1!4m5!3m4!1s0xd6990fcfb5a6c5d:0xb035db616bb6aa52!8m2!3d39.4717383!4d-3.5332049), in the Castilla-La Mancha region in Spain. (Photo credit: Wei Huang in Unsplash.)* -->
