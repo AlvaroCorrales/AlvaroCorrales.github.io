@@ -71,8 +71,6 @@ Pre-sales development of PoCs with AI and Cloud technologies for clients in the 
 
 **Senior Data Scientist – AI Team Community Lead**, Client Engineering Team, London, Oct 2022 - Sep 2023
 
-Client Engineering Team
-
 - Supported the delivery of +30 projects for +15 clients, including PoCs, MVPs, workshops and demos. Engaged with C-level stakeholders, department leaders and development teams.
 - Internal Management: AI Community Lead of a ~15-people team; Designed and conducted recruitment process; Mentoring; Knowledge management.
 
