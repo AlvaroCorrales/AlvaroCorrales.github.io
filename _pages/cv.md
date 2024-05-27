@@ -75,22 +75,22 @@ Pre-sales development of PoCs with AI and Cloud technologies for clients in the 
 - Internal Management: AI Community Lead of a ~15-people team; Designed and conducted recruitment process; Mentoring; Knowledge management.
 
 Selected projects:
-- Led a team to create an algorithm for identifying non-compliant IT controls for a major UK bank using a sentence encoding model, a BERT-based entity extraction model and logical rules. The project resulted in a two-order-of-magnitude increase in controls processed.
-- Led the development of a data governance framework for a major UK bank including business terms, categories, data privacy rules, and automated data quality assessments.
+- **Banking sector** - Led a team to create an algorithm for identifying non-compliant IT controls for a major UK bank using a sentence encoding model, a BERT-based entity extraction model and logical rules. The project resulted in a two-order-of-magnitude increase in controls processed.
+- **Banking sector** - Led the development of a data governance framework for a major UK bank including business terms, categories, data privacy rules, and automated data quality assessments.
 
 
 **Data Scientist**, Client Engineering Team, London, Apr 2021 - Sep 2022
 
 Selected projects:
-- Led a team for the creation of a tool for auditing customer calls for a major UK bank using a custom speech-to-text model and a BERT-based model for entity extraction and sentiment analysis. The tool improved up to 15 p.p. the transcription accuracy over the existing solution.
-- Developed a dashboard for an NHS trust in the UK to visualise internal governance metrics and predict future performance using time series models. 
+- **Banking sector** - Led a team for the creation of a tool for auditing customer calls for a major UK bank using a custom speech-to-text model and a BERT-based model for entity extraction and sentiment analysis. The tool improved up to 15 p.p. the transcription accuracy over the existing solution.
+- **Public sector** - Developed a dashboard for an NHS trust in the UK to visualise internal governance metrics and predict future performance using time series models. 
 
 
 **Data Scientist**, Cloud Pak Acceleration Team, London, Nov 2019 - Mar 2021
 - **Emergent Alliance** -  Led two teams producing open-source material in the fight against Covid-19. The code is available on [Github](https://github.com/emergent-analytics/workstreams).
   - Co-authored a model of the economy to study how economic shocks propagate across economic sectors and built an web app to interact with it. The Alliance was very satisfied with the final version of the tool. It is now one of its flagship products, available through this [link](https://emergentalliance.org/products-and-services/economic-engine/). 
   - Identified mental health problems and perception of vaccines for NHS on Twitter using topic modelling (LDA), sentiment analysis (Watson NLU) and LSTM.
-- **Publishing industry** - Created a ML pipeline to identify authors of comments on various online forums using doc2vec and K-means clustering.
+- **Publishing sector** - Created a ML pipeline to identify authors of comments on various online forums using doc2vec and K-means clustering.
 - **Energy sector** – Improved the data collection and organisation process of a company by using a harmonised catalogue with data protection rules, which can be partially accessed by external users, as required by national regulations.
 
 **Other**
