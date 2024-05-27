@@ -93,11 +93,6 @@ Selected projects:
 - **Publishing sector** - Created a ML pipeline to identify authors of comments on various online forums using doc2vec and K-means clustering.
 - **Energy sector** – Improved the data collection and organisation process of a company by using a harmonised catalogue with data protection rules, which can be partially accessed by external users, as required by national regulations.
 
-**Other**
-- I have spoken in public events with organisations such as Code First Girls, PyData London or the University of Sheffield, for which I have achieved recognition as a public [speaker](https://www.youracclaim.com/badges/f94d74c3-e287-4a33-947e-1982c5ee4432/public_url) and [teacher](https://www.youracclaim.com/badges/dd074e83-1583-4f46-bc08-bfef41fe8d3d/public_url).
-- [Recognised mentor](https://www.youracclaim.com/badges/e48a1e85-043a-4d69-84f7-372072a03248/public_url) of aspiring data scientists.
-- Participated in recruitment activities for my team, designing coding exercises and interviewing candidates.
-
 ### [Charles River Associates](https://ecp.crai.com/) 
 **Consulting Associate, Competition Practice**, London, Aug 2018 - Jul 2019 
 
