@@ -66,11 +66,29 @@ As part of my job at IBM, I am also familiar with **Cloud** technologies such as
 I am also familiar with Stata, Excel, R, Spark and SQL. 
 
 ## Professional Experience
-### [IBM](https://www.ibm.com/uk-en/garage)
-**Data Scientist** | London | November 2019 - Present
+### [IBM](https://www.ibm.com/client-engineering)
+Pre-sales development of PoCs with AI and Cloud technologies for clients in the banking, telco and public sector, using an Agile framework.
 
-Helping organisations use their data with Cloud technology, AI and an Agile methodologies. Show the value of IBM’s Cloud Pak for Data through PoC and MVP. Some projects include:
+**Senior Data Scientist – AI Team Community Lead** | Client Engineering Team | London | Oct 2022 - Sep 2023
 
+Client Engineering Team
+
+- Supported the delivery of +30 projects for +15 clients, including PoCs, MVPs, workshops and demos. Engaged with C-level stakeholders, department leaders and development teams.
+- Internal Management: AI Community Lead of a ~15-people team; Designed and conducted recruitment process; Mentoring; Knowledge management.
+
+Selected projects:
+- Led a team to create an algorithm for identifying non-compliant IT controls for a major UK bank using a sentence encoding model, a BERT-based entity extraction model and logical rules. The project resulted in a two-order-of-magnitude increase in controls processed.
+- Led the development of a data governance framework for a major UK bank including business terms, categories, data privacy rules, and automated data quality assessments.
+
+
+**Data Scientist - Client Engineering Team** | Client Engineering Team | London | Apr 2021 - Sep 2022
+
+Selected projects:
+- Led a team for the creation of a tool for auditing customer calls for a major UK bank using a custom speech-to-text model and a BERT-based model for entity extraction and sentiment analysis. The tool improved up to 15 p.p. the transcription accuracy over the existing solution.
+- Developed a dashboard for an NHS trust in the UK to visualise internal governance metrics and predict future performance using time series models. 
+
+
+**Data Scientist** |Cloud Pak Acceleration Team | London | Nov 2019 - Mar 2021
 - **Emergent Alliance** -  Led two teams producing open-source material in the fight against Covid-19. The code is available on [Github](https://github.com/emergent-analytics/workstreams).
   - Co-authored a model of the economy to study how economic shocks propagate across economic sectors and built an web app to interact with it. The Alliance was very satisfied with the final version of the tool. It is now one of its flagship products, available through this [link](https://emergentalliance.org/products-and-services/economic-engine/). 
   - Identified mental health problems and perception of vaccines for NHS on Twitter using topic modelling (LDA), sentiment analysis (Watson NLU) and LSTM.
@@ -83,7 +101,7 @@ Helping organisations use their data with Cloud technology, AI and an Agile meth
 - Participated in recruitment activities for my team, designing coding exercises and interviewing candidates.
 
 ### [Charles River Associates](https://ecp.crai.com/) 
-**Consulting Associate, Competition Practice** | London | August 2018 - July 2019 
+**Consulting Associate, Competition Practice** | London | Aug 2018 - Jul 2019 
 
 Worked in mergers and abuse of dominance cases.
 - Successfully advised PayPal in its acquisition of iZettle, a company in the card payments industry, in a $2.2bn operation.
@@ -91,7 +109,7 @@ Worked in mergers and abuse of dominance cases.
 - Responsibilities ranged from analysing large datasets in Python and Stata to drafting economic reports to be presented as evidence in my cases.
 
 ### [Neovantas Consulting](https://www.neovantas.com/en/home/)
-**Business Analyst** | Madrid | January 2016 - August 2017 
+**Business Analyst** | Madrid | Jan 2016 - Aug 2017 
 
 - **Banking sector** – Led a lighthouse project for the design and implementation of debt recovery strategy for a collection agency using speech analytics and econometric techniques. Improvement of up to +29 p.p. in collection ratios. Started this project as an intern; after one year, I was leading a team of three people, including client-facing responsibilities. 
 - **Banking sector** – Built for major European bank building an econometric model to evaluate the impact of internal management training.
