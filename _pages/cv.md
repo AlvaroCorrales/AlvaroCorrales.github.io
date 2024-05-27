@@ -6,9 +6,11 @@ title: Curriculum Vitae
 classes: single
 ---
 
-**TL;DR**. I currently work as a Data Scientist at IBM, with over 4 years of experience in client-facing roles. I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
+**TL;DR**. I am a freelance data scientist with >6 years of experience in the tech and consulting sectors, working with clients in the banking, telco, energy and public sectors, and a track record of leading cross-functional teams. My passion is to uncover the hidden truths in data; I strive for that "aha" moment when suddenly everything makes sense.
 
-After 2.5 years in management and economic consulting, in mid-2019 I decided to pursue a career in Data Science. By that time, Data Science had become an exciting and innovative field, as well as a meeting point for people with very diverse backgrounds with plenty of room for cross-disciplinary collaboration.   
+I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
+
+I am always in the look-out for new projects and challenges, searching for value-driven organisations that strive to make the world a better place, one data point at a time. 
 
 <style>
 .button {
@@ -35,7 +37,7 @@ After 2.5 years in management and economic consulting, in mid-2019 I decided to 
 }
 </style>
 
-<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_112023.pdf'" type="button">Download my CV in PDF</button>
+<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_052024.pdf'" type="button">Download my CV in PDF</button>
 
 <br>
 
@@ -49,15 +51,13 @@ As a Data Scientist, my experience encompases **Machine Learning** techniques su
 As an economist, I have extensive training in the field of **Econometrics**. Some of the techniques I specialise in include:
 - **Causal inference** - Panel data, Randomised Controlled Trials (RCT), regression discontinuity
 - **Discrete choice** - Classification problems, including multinomial and ordered probit/logit
-- **Time series** - ARIMA, GARCH
+- **Time series** - Forecasting, Statistical Analysis, ARIMA
 - **Duration analysis**
-
-I love working with data, and so I love expanding my knowledge with new techniques. Some of my current interests are in the field of **Deep learning** (CNN, LSTM) and **Bayesian Methods**. I recently published an [article](https://towardsdatascience.com/applying-bayesian-networks-to-covid-19-diagnosis-73b06c3418d8) about Bayesian Networks in Towards Data Science.
 
 ### Technologies
 **Python** is my main coding language. Some of the libraries that I typically use in my projects include:
 - Data wrangling: *numpy, pandas, scipy*
-- Machine and deep learning: *scikit-learn, statsmodels, keras, xgboost, lightgbm*
+- Machine and deep learning: *scikit-learn, statsmodels, pytorch, xgboost, lightgbm, skforecast*
 - Visualisation and dashboarding: *matplotlib, seaborn, plotly, streamlit*
 - NLP: *gensim, nltk, spacy*
 
