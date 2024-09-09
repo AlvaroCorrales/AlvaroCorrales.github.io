@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Tech blogs"
     url: /_pages/blog/
-  - title: "Podcast"
-    url: /_pages/podcast/
+  # - title: "Podcast"
+  #   url: /_pages/podcast/
   - title: "CV"
     url: /_pages/cv/
   # - title: "Sitemap"
