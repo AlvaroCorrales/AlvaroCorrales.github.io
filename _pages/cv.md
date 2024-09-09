@@ -37,7 +37,7 @@ I am always in the look-out for new projects and challenges, searching for value
 }
 </style>
 
-<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV_052024.pdf'" type="button">Download my CV in PDF</button>
+<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV.pdf'" type="button">Download my CV in PDF</button>
 
 <br>
 
