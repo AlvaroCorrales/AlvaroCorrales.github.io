@@ -6,46 +6,18 @@ title: Curriculum Vitae
 classes: single
 ---
 
-**TL;DR**. 
-Data Scientist with 7 years of experience working with clients in the UK and Spain. I specialise in the development of PoCs and MVPs using AI and Cloud technologies, collaborating with cross-functional teams in sectors such as banking, telecommunications, and the public sector.
+**TL;DR**
+
+I am a Data Scientist with 7 years of experience working with clients in the UK and Spain. I specialise in the development of PoCs and MVPs using AI and Cloud technologies, collaborating with cross-functional teams in sectors such as banking, telecommunications, and the public sector.
+
+**Download my CV below 👇 or click on this [link](https://alvarocorrales.github.io/assets/images/ACC_CV.pdf)**
+
+<!-- View and download CV -->
+<iframe src="https://alvarocorrales.github.io/assets/images/ACC_CV.pdf" width="100%" height="600px"></iframe>
 
 With over 30 collaborations for more than 15 clients in the last three years, some of my projects include developing NLP models for identifying malpractice in IT reports, creating a tool for transcribing customer calls for subsequent analysis, and building dashboards for KPI visualisation.
 
 I specialize in econometric techniques for time series analysis, causal inference, natural language processing (NLP), and data visualisation. My programming language is Python, and I have experience with cloud technologies (IBM), visualization tools (Cognos Analytics), and databases (Mongo, Db2).
-
-**Download my CV below 👇 or click on this [link](https://alvarocorrales.github.io/assets/images/ACC_CV.pdf)**
-
-<!-- <style>
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 18px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #fff;
-  background-color: #00CED1;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 5px #999;
-}
-
-.button:hover {background-color: #00CED1} 
-
-.button:active {
-  background-color: #00CED1;
-  /* box-shadow: 0 5px #666; */
-  transform: translateY(4px);
-}
-</style>
-
-<button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV.pdf'" type="button">Download my CV in PDF</button>
-
-<br> -->
-
-<!-- View and download CV -->
-<iframe src="https://alvarocorrales.github.io/assets/images/ACC_CV.pdf" width="100%" height="600px"></iframe>
 
 <!-- Call to Action -->
 [Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
