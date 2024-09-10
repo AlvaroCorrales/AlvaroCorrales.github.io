@@ -9,8 +9,7 @@ layout : single
 
 <!-- Clear Value Proposition -->
 <header>
-  <h1>Data Science Expertise to Power Your Business Decisions</h1>
-  <p>Freelance Data Scientist with 7 years of experience delivering AI-driven solutions for clients in banking, telecom, and the public sector.</p>
+  <h1>Data Science Expertise to Power Your Business Decisions 🚀</h1>
 </header>
 
 
