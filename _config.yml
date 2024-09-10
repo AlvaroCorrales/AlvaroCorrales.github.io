@@ -19,14 +19,14 @@ locale                   : "en-GB"
 title                    : "Álvaro Corrales Cano"
 title_separator          : ""
 # subtitle                 : Freelance Data Scientist # site tagline that appears below site title in masthead
-name                     : "Home"
+# name                     : "Home"
 description              : "Álvaro Corrales' personal website. Blogs and Data Science projects and more! (Site under construction)"
 url                      : "https://alvarocorrales.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-# teaser                   : "/assets/images/logo_temp3.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# logo                     : "/assets/images/logo_temp3.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Álvaro Corrales Cano" # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : "/assets/images/house-black-silhouette-without-door.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/house-black-silhouette-without-door.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# masthead_title           : "Álvaro Corrales Cano" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs              : True # true, false (default)
 words_per_minute         : 200
 comments:
