@@ -42,6 +42,9 @@ I specialize in econometric techniques for time series analysis, causal inferenc
 
 <br>
 
+<iframe src="https://alvarocorrales.github.io/assets/images/ACC_CV.pdf" width="100%" height="600px"></iframe>
+
+
 ## Technical stack
 ### Methods
 As a Data Scientist, my experience encompases **Machine Learning** techniques such as:
