@@ -30,6 +30,6 @@ layout : single
 
 <!-- Call to Action Buttons -->
 <section class="cta-buttons">
-  <a href="/contact" class="btn btn-primary">Let’s Work Together</a>
-  <a href="/portfolio" class="btn btn-secondary">See My Work</a>
+  <a href="/contact" class="btn btn-success">Let’s Work Together</a>
+  <a href="/portfolio" class="btn btn-success">See My Work</a>
 </section>
