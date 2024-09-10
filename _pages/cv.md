@@ -6,11 +6,12 @@ title: Curriculum Vitae
 classes: single
 ---
 
-**TL;DR**. I am a freelance data scientist with >6 years of experience in the tech and consulting sectors, working with clients in the banking, telco, energy and public sectors, and a track record of leading cross-functional teams. My passion is to uncover the hidden truths in data; I strive for that "aha" moment when suddenly everything makes sense.
+**TL;DR**. 
+Data Scientist with 7 years of experience working with clients in the UK and Spain. I specialise in the development of PoCs and MVPs using AI and Cloud technologies, collaborating with cross-functional teams in sectors such as banking, telecommunications, and the public sector.
 
-I specialise in a wide array of Econometric and Data Science techniques including causal inference, discrete choice models, time series and duration analysis. 
+With over 30 collaborations for more than 15 clients in the last three years, some of my projects include developing NLP models for identifying malpractice in IT reports, creating a tool for transcribing customer calls for subsequent analysis, and building dashboards for KPI visualisation.
 
-I am always in the look-out for new projects and challenges, searching for value-driven organisations that strive to make the world a better place, one data point at a time. 
+I specialize in econometric techniques for time series analysis, causal inference, natural language processing (NLP), and data visualisation. My programming language is Python, and I have experience with cloud technologies (IBM), visualization tools (Cognos Analytics), and databases (Mongo, Db2).
 
 <style>
 .button {
