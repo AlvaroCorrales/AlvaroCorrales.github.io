@@ -9,6 +9,9 @@ layout : single
 
 Welcome to my personal website! My name is Álvaro and I am a Senior Data Scientist. An Economist by background, I am primarily interested in the intersection between traditional Econometrics and modern applications in Data Science and AI, such as causal inference and time series analysis. I also have a big love for words, so I am a big fan of all things NLP. 
 
+<img src="https://alvarocorrales.github.io/assets/images/alvaro.jpeg" alt="Company Logo" width="200" height="200">
+
+
 I am an enthusiast of data evangelisation, blogging and general scientific and cultural communication. As such, I have built this website to collect in a single repository all the pieces of work that I have published in different channels. Here, you will find content about Data Science and Economics, my two areas of professional specialisation. 
 
 This website is in constant development. In fact, it is a learning project for me, so don't be surprised if it looks entirely different if you revisit it in a matter of days! 
