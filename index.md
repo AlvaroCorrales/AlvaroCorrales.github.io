@@ -9,7 +9,7 @@ layout : single
 
 <!-- Clear Value Proposition -->
 <header>
-  <h1>Data Science Expertise to Power Your Business Decisions 🚀</h1>
+  <h1>Data Science Expertise to Power Your Business Decisions 🦾 🚀 </h1>
 </header>
 
 
