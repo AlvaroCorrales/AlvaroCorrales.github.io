@@ -11,11 +11,7 @@ Whether it is for fun or as part of my job, I love writing and sharing knowledge
 ## Personal
 Some of my articles have made it to the Editors' Picks and Hands-on Tutorials section of [Towards Data Science](https://towardsdatascience.com/), Medium's most famous publication on Data Science and AI. 
 
-<br>
-<div id="medium-widget"></div>
-<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@acorralescano","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
-<br>
+<iframe src='https://widgets.sociablekit.com/medium-publication-feed/iframe/25460913' frameborder='0' width='100%' height='1000'></iframe>
 
 ## As part of IBM
 
