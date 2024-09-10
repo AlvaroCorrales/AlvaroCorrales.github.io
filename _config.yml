@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Álvaro Corrales Cano"
   avatar           : "/assets/images/profile_photo3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Freelance Data Scientist | Economist"
+  bio              : "Freelance Data Scientist, Economist"
   location         : "London, UK"
   email            :
   links:
