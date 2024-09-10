@@ -34,4 +34,4 @@ layout : single
   <a href="/portfolio" class="btn btn-success">See My Work</a>
 </section> -->
 
-[Let's work together](#link){: .btn .btn--success}
+[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
