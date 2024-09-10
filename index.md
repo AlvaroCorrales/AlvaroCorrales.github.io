@@ -29,7 +29,9 @@ layout : single
 </section>
 
 <!-- Call to Action Buttons -->
-<section class="cta-buttons">
+<!-- <section class="cta-buttons">
   <a href="/contact" class="btn btn-success">Let’s Work Together</a>
   <a href="/portfolio" class="btn btn-success">See My Work</a>
-</section>
+</section> -->
+
+[Let's work together](#link){: .btn .btn--success}
