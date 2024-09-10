@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "defau
 # Site Settings
 locale                   : "en-GB"
 title                    : "Álvaro Corrales Cano"
-title_separator          : "Álvaro Corrales Cano"
+title_separator          : ""
 # subtitle                 : Freelance Data Scientist # site tagline that appears below site title in masthead
-# name                     : "Home"
+# name                     : "Álvaro Corrales Cano"
 description              : "Álvaro Corrales' personal website. Blogs and Data Science projects and more! (Site under construction)"
 url                      : "https://alvarocorrales.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
