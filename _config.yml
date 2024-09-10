@@ -24,8 +24,8 @@ description              : "Álvaro Corrales' personal website. Blogs and Data S
 url                      : "https://alvarocorrales.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/house-black-silhouette-without-door.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/house-black-silhouette-without-door.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# teaser                   : "/assets/images/house-black-silhouette-without-door.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo                     : "/assets/images/house-black-silhouette-without-door.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs              : True # true, false (default)
 words_per_minute         : 200
