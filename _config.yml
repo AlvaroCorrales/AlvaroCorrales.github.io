@@ -20,7 +20,7 @@ title                    : "Álvaro Corrales Cano"
 title_separator          : ""
 subtitle                 : Freelance Data Scientist # site tagline that appears below site title in masthead
 name                     : "Álvaro Corrales Cano"
-description              : "Alvaro Corrales' personal website. Blogs and Data Science projects and more! (Site under construction)"
+description              : "Álvaro Corrales' personal website. Blogs and Data Science projects and more! (Site under construction)"
 url                      : "https://alvarocorrales.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
