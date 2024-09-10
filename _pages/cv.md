@@ -45,6 +45,8 @@ I specialize in econometric techniques for time series analysis, causal inferenc
 <!-- View and download CV -->
 <iframe src="https://alvarocorrales.github.io/assets/images/ACC_CV.pdf" width="100%" height="600px"></iframe>
 
+<!-- Call to Action -->
+[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
 
 ## Technical stack
 ### Methods
