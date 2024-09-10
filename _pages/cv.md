@@ -6,9 +6,7 @@ title: Curriculum Vitae
 classes: single
 ---
 
-**TL;DR**
-
-I am a Data Scientist with 7 years of experience working with clients in the UK and Spain. I specialise in the development of PoCs and MVPs using AI and Cloud technologies, collaborating with cross-functional teams in sectors such as banking, telecommunications, and the public sector.
+**TL;DR**. I am a Data Scientist with 7 years of experience working with clients in the UK and Spain. I specialise in the development of PoCs and MVPs using AI and Cloud technologies, collaborating with cross-functional teams in sectors such as banking, telecommunications, and the public sector.
 
 **Download my CV below 👇 or click on this [link](https://alvarocorrales.github.io/assets/images/ACC_CV.pdf)**
 
