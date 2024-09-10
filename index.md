@@ -1,8 +1,8 @@
 ---
 title: ""
 excerpt: ""
-# header:
-#     image: "/assets/images/header_temp.png"
+header:
+    image: "/assets/images/header.jpg"
 author_profile: true
 layout : single
 ---
