@@ -24,7 +24,7 @@ layout : single
     In the last three years, I’ve delivered over 30 projects, including NLP models for IT report analysis, a call transcription tool for customer insights, and KPI dashboards.
   </p>
   <p>
-    I focus on time series analysis, causal inference, NLP, and data visualization, primarily using Python, cloud tools, and databases.
+    I focus on time series analysis, causal inference, NLP, and data visualization, primarily using Python and cloud-based tools.
   </p>
 </section>
 
