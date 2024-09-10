@@ -48,7 +48,7 @@ I specialize in econometric techniques for time series analysis, causal inferenc
 <!-- Call to Action -->
 [Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
 
-## Technical stack
+<!-- ## Technical stack
 ### Methods
 As a Data Scientist, my experience encompases **Machine Learning** techniques such as:
 - **Natural Language Processing (NLP)** - Topic Modelling (LDA), Sentiment analysis (Watson NLU), Embeddings (doc2vec, word2vec), Language Models (see my [article](https://towardsdatascience.com/assyrian-or-babylonian-language-identification-in-cuneiform-texts-4f15a14a5d70) in Towards Data Science)
@@ -134,4 +134,4 @@ I love learning languages! I think it's beautiful how much one can learn from a 
 - Podcasting
 - Ancient Greco-Roman History and Literature
 - Sports (Cycling, hiking)
-
+ -->
