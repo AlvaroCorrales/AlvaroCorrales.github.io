@@ -18,7 +18,7 @@ layout : single
 <section id="about-me">
   <h2>Hi, I'm Álvaro</h2>
   <p>
-    I’m a Data Scientist with 7 years of experience working with clients in the UK and Spain. I specialise in AI and Cloud technologies, developing PoCs and MVPs for industries like banking, telecom, and the public sector.
+    I’m a Data Scientist with 7 years of experience working with clients in the UK and Spain in tech and consulting. I specialise in AI and Cloud technologies, developing Proofs of Concept (PoC) and Minimum Viable Products (MVP) for industries like banking, telecom, and the public sector.
   </p>
   <p>
     In the last three years, I’ve delivered over 30 projects, including NLP models for IT report analysis, a call transcription tool for customer insights, and KPI dashboards.
