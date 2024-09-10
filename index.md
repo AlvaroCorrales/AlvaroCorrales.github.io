@@ -14,7 +14,6 @@ layout : single
 </header>
 
 
-
 <!-- Introduction Text -->
 <section id="about-me">
   <h2>Hi, I'm Álvaro</h2>
@@ -27,4 +26,10 @@ layout : single
   <p>
     I focus on time series analysis, causal inference, NLP, and data visualization, primarily using Python, cloud tools, and databases.
   </p>
+</section>
+
+<!-- Call to Action Buttons -->
+<section class="cta-buttons">
+  <a href="/contact" class="btn btn-primary">Let’s Work Together</a>
+  <a href="/portfolio" class="btn btn-secondary">See My Work</a>
 </section>
