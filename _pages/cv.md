@@ -13,7 +13,7 @@ With over 30 collaborations for more than 15 clients in the last three years, so
 
 I specialize in econometric techniques for time series analysis, causal inference, natural language processing (NLP), and data visualisation. My programming language is Python, and I have experience with cloud technologies (IBM), visualization tools (Cognos Analytics), and databases (Mongo, Db2).
 
-<style>
+<!-- <style>
 .button {
   display: inline-block;
   padding: 10px 20px;
@@ -40,8 +40,9 @@ I specialize in econometric techniques for time series analysis, causal inferenc
 
 <button class="button" onclick="location.href='https://alvarocorrales.github.io/assets/images/ACC_CV.pdf'" type="button">Download my CV in PDF</button>
 
-<br>
+<br> -->
 
+<!-- View and download CV -->
 <iframe src="https://alvarocorrales.github.io/assets/images/ACC_CV.pdf" width="100%" height="600px"></iframe>
 
 
