@@ -10,7 +10,8 @@ layout : single
 <!-- Clear Value Proposition -->
 <header>
   <h1>Tailored Data Science Solutions for Rapid MVPs and PoCs</h1>
-  <p>Custom AI and data-driven solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.</p>
+  <p> Do you think you could use your business data more effectively? Do you have an idea to start using AI but you don't know where to start? 
+  <p>I can help you bring to life your custom AI solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.</p>
 </header>
 
 <!-- Call to Action Buttons -->
@@ -24,7 +25,7 @@ layout : single
     As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. My approach is personalised, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
   </p>
   <p>
-    You have an idea but you don't know where to start? I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new concepts or bring a product to life, I'll be with you every step of the way.
+    I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new concepts or bring a product to life, I'll be with you every step of the way.
   </p>
 </section>
 
