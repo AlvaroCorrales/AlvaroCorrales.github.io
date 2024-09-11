@@ -28,7 +28,7 @@ As a freelance data scientist, I help businesses rapidly develop Proofs of Conce
 
 My approach is personalized, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
 
-I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you’re looking to explore new concepts or bring a product to life, I’ll be with you every step of the way.
+I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you’re looking to explore new concepts or bring a product to life, I’ll be with you every step of the way. Ready? Let's get started!
 
 
 
