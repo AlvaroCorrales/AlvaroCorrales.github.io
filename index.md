@@ -8,7 +8,7 @@ layout : single
 ---
 
 <!-- Clear Value Proposition -->
-# Tailored Data Science Solutions for Rapid MVPs and PoCs
+# Rapid prototyping of Data Science and AI solutions
 
 - _Do you think you could use your business data more effectively?_ 📈
 - _Do you want to explore how AI can benefit your business?_ 🤖
