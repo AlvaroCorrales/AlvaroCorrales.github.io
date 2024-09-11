@@ -10,7 +10,7 @@ layout : single
 <!-- Clear Value Proposition -->
 <header>
   <h1>Tailored Data Science Solutions for Rapid MVPs and PoCs</h1>
-  <p> Do you think you could use your business data more effectively? Do you have an idea to start using AI but you don't know where to start? 
+  <p> Do you think you could use your business data more effectively? Do you want to explore how AI can benefit your business? Do you have a pain point at work and you think you can solve it with AI? 
   <p>I can help you bring to life your custom AI solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.</p>
 </header>
 
