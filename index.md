@@ -14,7 +14,7 @@ layout : single
 - _Do you want to explore how AI can benefit your business?_
 - _Do you have a pain point at work and think you can solve it with AI?_
 
-Then stop thinking, and let's start coding. I can help you bring to life your custom AI solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.
+Then stop thinking, and let's start coding! 👩‍💻👨‍💻 I can help you bring to life your custom AI solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.
 
 
 <!-- Call to Action Buttons -->
