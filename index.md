@@ -8,26 +8,24 @@ layout : single
 ---
 
 <!-- Clear Value Proposition -->
-<header>
-  <h1>Tailored Data Science Solutions for Rapid MVPs and PoCs</h1>
-  <p> Do you think you could use your business data more effectively? Do you want to explore how AI can benefit your business? Do you have a pain point at work and you think you can solve it with AI? 
-  <p>I can help you bring to life your custom AI solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.</p>
-</header>
+# Tailored Data Science Solutions for Rapid MVPs and PoCs
+
+Do you think you could use your business data more effectively? Do you want to explore how AI can benefit your business? Do you have a pain point at work and think you can solve it with AI?
+
+I can help you bring to life your custom AI solutions, from concept to reality, with the precision and care of a 21st-century artisan. Let's transform your ideas into impactful business outcomes.
+
 
 <!-- Call to Action Buttons -->
 [Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
 [See my work](#link){: .btn .btn--success}
 
 <!-- Introduction Text -->
-<section id="what-i-offer">
-  <h2>What I can do for your business</h2>
-  <p>
-    As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. My approach is personalised, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
-  </p>
-  <p>
-    I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new concepts or bring a product to life, I'll be with you every step of the way.
-  </p>
-</section>
+## What I can do for your business
+
+As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. My approach is personalized, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
+
+I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new concepts or bring a product to life, I'll be with you every step of the way.
+
 
 
 
