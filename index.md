@@ -24,10 +24,9 @@ I can help you bring to life your custom AI solutions, from concept to reality, 
 <!-- Introduction Text -->
 ## What I can do for your business
 
-As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. My approach is personalized, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
+As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. Rapid prototyping is essential to quickly determine if the technology fits your business needs, allowing for efficient validation before full-scale implementation. My approach is personalized, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
 
-I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new concepts or bring a product to life, I'll be with you every step of the way.
-
+I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you’re looking to explore new concepts or bring a product to life, I’ll be with you every step of the way.
 
 
 
