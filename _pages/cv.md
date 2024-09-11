@@ -18,7 +18,7 @@ With over 30 collaborations for more than 15 clients in the last three years, so
 I specialize in econometric techniques for time series analysis, causal inference, natural language processing (NLP), and data visualisation. My programming language is Python, and I have experience with cloud technologies (IBM), visualization tools (Cognos Analytics), and databases (Mongo, Db2).
 
 <!-- Call to Action -->
-[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
+[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--info}
 
 <!-- ## Technical stack
 ### Methods

@@ -22,4 +22,4 @@ Unless stated otherwise, the content of this website is my personal work. Hence,
 <!-- 
 *Wondering about the windmills in the header image? This photo was taken in Consuegra, very close to my hometown, [Madridejos](https://www.google.com/maps/place/45710+Madridejos,+Toledo,+Spain/@39.4714388,-3.5501253,4472m/data=!3m2!1e3!4b1!4m5!3m4!1s0xd6990fcfb5a6c5d:0xb035db616bb6aa52!8m2!3d39.4717383!4d-3.5332049), in the Castilla-La Mancha region in Spain. (Photo credit: Wei Huang in Unsplash.)* -->
 
-[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
+[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--info}

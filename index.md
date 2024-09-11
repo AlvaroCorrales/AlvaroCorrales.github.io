@@ -18,8 +18,8 @@ Then stop thinking, and let's start coding! 👩‍💻👨‍💻 I can help yo
 
 
 <!-- Call to Action Buttons -->
-[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
-[See my work](#link){: .btn .btn--success}
+[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--info}
+[See my work](#link){: .btn .btn--info}
 
 <!-- Introduction Text -->
 ## What I can do for your business

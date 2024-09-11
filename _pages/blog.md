@@ -23,4 +23,4 @@ As part of the [Emergent Alliance project](https://www.ibm.com/blogs/journey-to-
 
 [![PyData Berlin event](/assets/images/pydata_thumbnail.png)](https://youtu.be/T3SsCjXhQD4?t=1457 "PyData Berlin event")
 
-[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--success}
+[Let's work together](mailto:aldcorrales@outlook.com){: .btn .btn--info}
