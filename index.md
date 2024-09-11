@@ -21,10 +21,10 @@ layout : single
 <section id="what-i-offer">
   <h2>What I can do for your business</h2>
   <p>
-    As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. My approach is personalized, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
+    As a freelance data scientist, I help businesses rapidly develop Proofs of Concept (PoC) and Minimum Viable Products (MVP) using AI and cloud technologies. My approach is personalised, providing bespoke solutions designed to meet the unique needs of each client. Think of me as a modern-day artisan, crafting data solutions with care, precision, and a deep understanding of your business goals.
   </p>
   <p>
-    I offer end-to-end support, from business ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new ideas or bring a product to life, I'll be with you every step of the way.
+    You have an idea but you don't know where to start? I offer end-to-end support, from ideation and discovery workshops to the implementation of custom data models and analytics tools. Whether you're looking to explore new concepts or bring a product to life, I'll be with you every step of the way.
   </p>
 </section>
 
